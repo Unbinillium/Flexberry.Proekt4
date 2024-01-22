@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proekt4-подразделение-e",
+  "editForm": "i-i-s-proekt4-подразделение-e",
+  "external": false,
+  "caption": "Подразделение",
+  "name": "IISProekt4ПодразделениеL",
+  "className": "ПодразделениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proekt4-подразделение",
+      "modelProjection": "ПодразделениеL"
+    }
+  ]
+}

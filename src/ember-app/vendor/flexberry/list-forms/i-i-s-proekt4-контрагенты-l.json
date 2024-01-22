@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proekt4-контрагенты-e",
+  "editForm": "i-i-s-proekt4-контрагенты-e",
+  "external": false,
+  "caption": "Контрагенты",
+  "name": "IISProekt4КонтрагентыL",
+  "className": "КонтрагентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proekt4-контрагенты",
+      "modelProjection": "КонтрагентыL"
+    }
+  ]
+}

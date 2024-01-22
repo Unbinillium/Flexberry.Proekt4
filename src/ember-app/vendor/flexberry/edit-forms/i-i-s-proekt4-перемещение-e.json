@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Перемещение",
+  "name": "IISProekt4ПеремещениеE",
+  "className": "ПеремещениеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proekt4-перемещение",
+      "modelProjection": "ПеремещениеE"
+    }
+  ]
+}

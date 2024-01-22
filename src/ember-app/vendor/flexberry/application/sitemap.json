@@ -1,0 +1,128 @@
+﻿{
+  "applicationCaption": "Proekt4",
+  "applicationTitle": "Proekt4",
+  "items": [
+    {
+      "link": null,
+      "menuName": "учет-материалов",
+      "caption": "Учет материалов",
+      "title": "Учет материалов",
+      "children": [
+        {
+          "link": "i-i-s-proekt4-подразделение-l",
+          "menuName": null,
+          "caption": "Подразделение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-перемещение-l",
+          "menuName": null,
+          "caption": "Перемещение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-эко-класс-l",
+          "menuName": null,
+          "caption": "Эко класс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-защ-свойства-l",
+          "menuName": null,
+          "caption": "Защ свойства",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-номенклатура-l",
+          "menuName": null,
+          "caption": "Номенклатура",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочники",
+      "caption": "Справочники",
+      "title": "Справочники",
+      "children": [
+        {
+          "link": "i-i-s-proekt4-защ-свойства-l",
+          "menuName": null,
+          "caption": "ЗащСвойстваL",
+          "title": "Защ свойства",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-подразделение-l",
+          "menuName": null,
+          "caption": "ПодразделениеL",
+          "title": "Подразделение",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-сотрудники-l",
+          "menuName": null,
+          "caption": "СотрудникиL",
+          "title": "Сотрудники",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-контрагенты-l",
+          "menuName": null,
+          "caption": "КонтрагентыL",
+          "title": "Контрагенты",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-номенклатура-l",
+          "menuName": null,
+          "caption": "НоменклатураL",
+          "title": "Номенклатура",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-эко-класс-l",
+          "menuName": null,
+          "caption": "ЭкоКлассL",
+          "title": "Эко класс",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proekt4-должность-l",
+          "menuName": null,
+          "caption": "ДолжностьL",
+          "title": "Должность",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

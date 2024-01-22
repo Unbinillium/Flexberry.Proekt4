@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proekt4-должность-e",
+  "editForm": "i-i-s-proekt4-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISProekt4ДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proekt4-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

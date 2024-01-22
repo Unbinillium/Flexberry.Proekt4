@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proekt4-эко-класс-e",
+  "editForm": "i-i-s-proekt4-эко-класс-e",
+  "external": false,
+  "caption": "Эко класс",
+  "name": "IISProekt4ЭкоКлассL",
+  "className": "ЭкоКлассL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proekt4-эко-класс",
+      "modelProjection": "ЭкоКлассL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proekt4-защ-свойства-e",
+  "editForm": "i-i-s-proekt4-защ-свойства-e",
+  "external": false,
+  "caption": "Защ свойства",
+  "name": "IISProekt4ЗащСвойстваL",
+  "className": "ЗащСвойстваL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proekt4-защ-свойства",
+      "modelProjection": "ЗащСвойстваL"
+    }
+  ]
+}

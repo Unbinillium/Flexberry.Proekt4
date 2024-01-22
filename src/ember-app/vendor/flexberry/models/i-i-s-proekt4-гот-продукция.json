@@ -1,0 +1,96 @@
+﻿{
+  "name": "IISProekt4ГотПродукция",
+  "modelName": "i-i-s-proekt4-гот-продукция",
+  "className": "ГотПродукция",
+  "nameSpace": "IIS.Proekt4",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "колВо",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "одобрено",
+      "type": "boolean",
+      "flexberryType": "bool",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "сумма",
+      "type": "decimal",
+      "flexberryType": "double",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "товар",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "цена",
+      "type": "decimal",
+      "flexberryType": "double",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "перемещение",
+      "relatedTo": "i-i-s-proekt4-перемещение",
+      "inverse": "готПродукция"
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ГотПродукцияE",
+      "modelName": "i-i-s-proekt4-гот-продукция",
+      "attrs": [
+        {
+          "name": "товар",
+          "caption": "Товар",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "колВо",
+          "caption": "Кол во",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "одобрено",
+          "caption": "Одобрено",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
